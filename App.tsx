@@ -11,7 +11,7 @@ import { AuthProvider } from "./contexts/AuthContext";
 import { DataProvider, useData } from "./contexts/DataContext";
 
 const AppContent: React.FC = () => {
-	const [activeTab, setActiveTab] = useState("tournaments");
+	const [activeTab, setActiveTab] = useState("dashboard");
 	const [language, setLanguage] = useState<Language>("CN");
 	const [currentMatch, setCurrentMatch] = useState<Match | null>(null);
 
