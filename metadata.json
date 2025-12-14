@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ProSquash Manager",
+  "description": "A comprehensive squash tournament management system featuring intelligent draw generation, real-time referee scoring, and data analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
