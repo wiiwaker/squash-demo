@@ -1,0 +1,5 @@
+name = "squash-demo"
+compatibility_date = "2025-12-15"
+
+[pages]
+build_output_dir = "dist"
